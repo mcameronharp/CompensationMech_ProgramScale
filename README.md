@@ -1,2 +1,2 @@
 # CompensationMech_ProgramScale
-Respository containing code needed to reproduce results in paper examining effects of compensation mechanism and program scale on PES program performance.
+Respository containing code needed to reproduce results in paper examining effects of compensation mechanism and program scale on PES program performance. Note, the R script detailing the simulation structure is contained in the "BEOCAT" folder. Note, the simulation runs were performed on the BEOCAT High-Performance Computing (HPC) cluster at Kansas State University due to the computational demand. 
